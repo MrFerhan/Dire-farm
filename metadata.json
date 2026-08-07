@@ -1,0 +1,6 @@
+{
+  "name": "Dire Farms Livestock Marketplace",
+  "description": "Enterprise-ready digital livestock marketplace for Dire Farms PLC enabling premium goat sales for Enkutatash (Ethiopian New Year) with transparent pricing, quality verification, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
